@@ -68,7 +68,7 @@ public class Main{
  * use readLine() and insert into headerList
  * then insert the second line into nameList
  * 
- * Use replace function to find <<first_name>> and replace with headerList[0]
- * read txt file, readLine(), then use FileReader to print it out.
+ * Use replace function to find <<first_name>> , <<address>> and <<years>> and replace with headerList[0]. headerList[2] and headerList[3] respectively
+ * read thankyou.txt file, readLine(), then use FileReader to print it out.
  * repeat the loop for the size length
  */
